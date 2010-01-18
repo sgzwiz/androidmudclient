@@ -25,9 +25,9 @@ import android.view.View.OnKeyListener;
 import com.andmudclient.ConnectionDialog.ServerAdd;
 import com.andmudclient.ServerListDialog.ConnectReady;
 import com.andmudclient.TelnetConnectionThread.TelnetThreadListener;
-import com.tdsoft.andaard.R;
-import com.tdsoft.andaard.R.id;
-import com.tdsoft.andaard.R.layout;
+import com.andmudclient.R;
+import com.andmudclient.R.id;
+import com.andmudclient.R.layout;
 
 public class andmudclient extends Activity {
     /** Called when the activity is first created. */

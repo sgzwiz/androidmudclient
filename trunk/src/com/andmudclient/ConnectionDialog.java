@@ -1,8 +1,8 @@
 package com.andmudclient;
 
-import com.tdsoft.andaard.R;
-import com.tdsoft.andaard.R.id;
-import com.tdsoft.andaard.R.layout;
+import com.andmudclient.R;
+import com.andmudclient.R.id;
+import com.andmudclient.R.layout;
 
 import android.app.Dialog;
 import android.content.Context;

@@ -3,9 +3,9 @@ package com.andmudclient;
 import java.util.ArrayList;
 
 import com.andmudclient.andmudclient.ServerInfo;
-import com.tdsoft.andaard.R;
-import com.tdsoft.andaard.R.id;
-import com.tdsoft.andaard.R.layout;
+import com.andmudclient.R;
+import com.andmudclient.R.id;
+import com.andmudclient.R.layout;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
